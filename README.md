@@ -6,9 +6,5 @@
 3.
   ```ps
   pip install yfinance
-  ```
-
-4.
-  ```ps
   pip install mplfinance
   ```
