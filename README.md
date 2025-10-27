@@ -1,9 +1,7 @@
 # Necessities:
 
-1.
-  A telegram account
-2.
-  Create and set-up a personal bot with @BotFather; start by sending "/start" (easy; within telegram UI)
+1. A telegram account <br>
+2. Create and set-up a personal bot with @BotFather; start by sending "/start" (easy; within telegram UI)
 
 3.
   ```ps
