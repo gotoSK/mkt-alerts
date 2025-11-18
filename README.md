@@ -1,6 +1,6 @@
 # Necessities:
 
-(Discord can also be used; however, changes will be required, but this is done with Telegram.)
+(Discord bot can also be used; however, changes will be required. This is done for Telegram.)
 
 1. A telegram account <br>
 2. Create and set-up a personal bot with @BotFather; start by sending "/start" (easy; within telegram UI) <br>
